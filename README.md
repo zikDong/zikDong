@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zikDong
-- 👀 I’m interested in economics
+- 👀 I’m interested in Digital Economy.
 - 🌱 I’m currently learning Matlab\Stata\LaTex
-- 💞️ I’m looking to collaborate on Digital Economy
 - 📫 How to reach me ecozikun@126.com
 
 <!---
