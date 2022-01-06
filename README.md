@@ -1,8 +1,8 @@
--zikDong
--Henan Normal University
--Digital Economy
--Matlab\Stata\LaTex
--ecozikun@126.com
+*zikDong
+*Henan Normal University
+*Digital Economy
+*Matlab\Stata\LaTex
+*ecozikun@126.com
 
 <!---
 zikDong/zikDong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
