@@ -1,7 +1,7 @@
 *zikDong
 *Henan Normal University
 *Digital Economy
-*Matlab\Stata\LaTex
+*Stata\LaTex\M
 *ecozikun@126.com
 
 <!---
