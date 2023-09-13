@@ -1,7 +1,4 @@
-*zikDong
-*Henan Normal University
-*Digital Economy
-*Stata\LaTex\Matlab
+*z1kun_Machine
 *ecozikun@126.com
 
 <!---
